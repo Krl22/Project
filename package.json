@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krl22/Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krl22/Project/issues"
+  },
+  "homepage": "https://github.com/Krl22/Project", 
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
